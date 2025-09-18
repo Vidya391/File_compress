@@ -26,6 +26,7 @@ It uses the **Huffman Coding algorithm** to reduce file size (compression) and r
 
 ## 📂 Project Structure
 File-compress/
+
 │── huffman.py # Main CLI-based compressor & decompressor
 
 │── huffman_gui.py # Optional Tkinter GUI wrapper
