@@ -87,7 +87,7 @@ python huffman_gui.py
 
 ---
 
-📊 Example
+### 📊 Example
 
 Given example.txt:
 
@@ -97,7 +97,7 @@ It will be used to test the Huffman compression utility.
 
 ---
 
-🎯 Future Enhancements
+### 🎯 Future Enhancements
 
   *Add support for other algorithms (LZW, DEFLATE)
 
